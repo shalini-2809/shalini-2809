@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shalini-2809&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-2809&layout=compact)
+<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-2809&layout=compact) -->
 
 Want to work with me? Connect with me on:
 * [LinkedIn](https://www.linkedin.com/in/pathak-shalini)
