@@ -1,4 +1,4 @@
-### Hey there! I am [Shalini Pathak](https://www.shalinipathak.in), A Front-end Developer based in Mumbai.
+### Hey there! I am [Shalini Pathak](https://www.shalinipathak.in), A Data Science Enthusiast based in Mumbai.
 
 <!--
 Here are some ideas to get you started:
